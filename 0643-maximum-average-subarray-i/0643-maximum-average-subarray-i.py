@@ -5,5 +5,4 @@ class Solution(object):
         for i in range(k, len(nums)):
             current_sum += nums[i] - nums[i - k]
             max_sum = max(max_sum, current_sum)
-        max_avg = float(max_sum) / k
-        return max_avg
+        return float(max_sum) / k
