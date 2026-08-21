@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/1480-running-sum-of-1d-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -58,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
