@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Srujan122005/leetcode-solutionsm/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
